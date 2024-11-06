@@ -1,2 +1,2 @@
-# Sistema de Agendamento de Consultas Médicas
-API para agendamento de consultas, com suporte para envio de confirmações assíncronas via SMS ou e-mail.
+# Plataforma de Reservas de Hotéis
+API para agendar reservas de hotéis, com a confirmação de disponibilidade e pagamento feito de forma assíncrona.
